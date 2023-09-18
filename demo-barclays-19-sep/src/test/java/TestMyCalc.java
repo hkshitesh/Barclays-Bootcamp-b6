@@ -22,5 +22,7 @@ public class TestMyCalc {
 	public void test_fname() {		
 		assertEquals("Hitesh",calc.getFirstName());
 	}
+	
+	
 
 }

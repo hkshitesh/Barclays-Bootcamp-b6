@@ -1,0 +1,6 @@
+projectKey=demo-barclays-sonar:demo-barclays-sonar
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=demo-barclays-sonar%3Ademo-barclays-sonar
+ceTaskId=AYqn99H3rrdBU0QMA0yx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYqn99H3rrdBU0QMA0yx
